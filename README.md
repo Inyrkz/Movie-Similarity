@@ -13,6 +13,7 @@ METHOD
 # Tokenization
 
 Tokenization is a way to split text into tokens. These tokens could be paragraphs, sentences, or individual words. NLTK provides a number of tokenizers in the tokenize module.
+
 5. We then Created a function to perform both stemming and tokenization
 6. We imported the Kmeans module from scikitlearn to perform the clustering
 7. We performed cosine similarity and then obtained the similarity distance 
